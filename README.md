@@ -1,2 +1,2 @@
 # Python_Exercises
-Ejercicios realizados en Python
+Ejercicios de practica para aprender el lenguaje Python
