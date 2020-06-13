@@ -12,5 +12,7 @@ Los retos se tomaron de las siguientes paginas:
 
 **Nunca pares de programar: ejercicios de programación - Cuarta Parte** : https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-cuarto-nivel-matematicas/
 
+**Nunca pares de programar: ejercicios de programación - Quinta parte** : https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-quinto-nivel-ciclo-for/
+
 
 #NuncaParesdeAprender :)
