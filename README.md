@@ -14,5 +14,7 @@ Los retos se tomaron de las siguientes paginas:
 
 **Nunca pares de programar: ejercicios de programación - Quinta parte** : https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-quinto-nivel-ciclo-for/
 
+**Nunca pares de programar: ejercicios de programación - Sexta parte** : https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-sexto-nivel-ciclo-while-2/
+
 
 #NuncaParesdeAprender :)
